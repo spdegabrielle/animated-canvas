@@ -20,7 +20,7 @@
 ;;; Version  Date      Description
 ;;; 2.0.0    06/01/10  Updated for Racket. (MDW)
 
-(require (planet williams/science/random-distributions)
+(require science/random-distributions
          "histogram-widget.rkt")
 
 (define (main n)
